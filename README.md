@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 
-Readme file here.
+Zmiany dokonane w Visual Studio Code.
